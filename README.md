@@ -1,0 +1,4 @@
+nik
+===
+
+C++ nik library
